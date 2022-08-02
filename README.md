@@ -21,16 +21,6 @@ A15) The term “immigrant” means every alien except an alien who is within on
  - (ii)upon a basis of reciprocity, other officials and employees who have been accredited by a foreign government recognized de jure by the United States, who are accepted by the Secretary of State, and the members of their immediate families; and
  - (iii)upon a basis of reciprocity, attendants, servants, personal employees, and members of their immediate families, of the officials and employees who have a nonimmigrant status under (i) and (ii) above;
 
-The conservative argument against the DREAM act was that it was
-unconstitutional because it ascribed equal protection to non-US
-citizens. Why would the same argument not apply to equal protection of a
-fetus if a fetus is a person?
-
-Texas and other states have argued and benfitted from arguing that
-undocumented immigrants have no equal protection of rights under the
-Constitution. Why wouldn't judicial estoppel apply when they argue a
-non-citizen fetus deserves equal protection?
-
 If a fetal person is an undocumented immigrant, does that make
 regulating birth regulating immigration? Do states have the authority to
 regulate immigration/naturalization or is that solely in the jursidiction of Federal?
@@ -43,7 +33,7 @@ Can you claim a fetus as a dependent on your taxes?
 
 What if I want a life insurance policy on my fetus?
 
-## Law Enforcement
+## Law Enforcement and Common Law
 
 Is arresting a pregnant woman a violation of habeas corpus for the fetus
 who has committed no crime?
@@ -51,3 +41,7 @@ who has committed no crime?
 In Texas, you are not allowed to get divorced if you are a pregnant
 woman because the state has no jurisdiction over the fetus until it's
 born.
+
+The conservative argument against the DREAM act was that it was unconstitutional because it ascribed equal protection to non-US citizens. Why would the same argument not apply to equal protection of a fetus if a fetus is a person?
+
+Texas and other states have argued and benfitted from arguing that undocumented immigrants have no equal protection of rights under the Constitution. Why wouldn't judicial estoppel apply when they argue a non-citizen fetus deserves equal protection?

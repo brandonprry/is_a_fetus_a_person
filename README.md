@@ -27,7 +27,8 @@ regulate immigration/naturalization or is that solely in the jursidiction of Fed
 
 ## Taxes
 
-Can you claim a fetus as a dependent on your taxes?
+Can you claim a fetus as a dependent on your taxes? The IRS has very
+strong opinions on what constitutes a person.
 
 ## Insurance
 

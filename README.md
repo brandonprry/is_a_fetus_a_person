@@ -47,6 +47,6 @@ The conservative argument against the DREAM act was that it was unconstitutional
 
 Texas and other states have argued and benefitted from arguing that undocumented immigrants have no equal protection of rights under the Constitution. Why wouldn't judicial estoppel apply when they argue a non-citizen fetus deserves equal protection?
 
-Legally, person and individual are synonymous. If you break down the word individual, it means unable to divide further. A woman is an individual, even when pregnant with a fetus. You can't divide her from her fetus without significant effort.  Birth is a process that creates a new individual.
+Legally, person and individual are synonymous. If you break down the word individual, it means unable to divide further. A woman is an individual, even when pregnant with a fetus. You can't divide her from her fetus without significant effort, harm, or death.  Birth is a process that creates a new individual.
 
 It's legal to kill people in self-defense, even though self-defense is not an enumerated right.

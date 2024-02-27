@@ -15,6 +15,8 @@ undocumented immigrant in the US.
 
 A3)  The term “alien” means any person not a citizen or national of the United States.
 
+A fetus is neither a national nor a citizen. It is stateless until born.
+
 A15) The term “immigrant” means every alien except an alien who is within one of the following classes of nonimmigrant aliens—
 
  - (i)an ambassador, public minister, or career diplomatic or consular officer who has been accredited by a foreign government, recognized de jure by the United States and who is accepted by the President or by the Secretary of State, and the members of the alien’s immediate family;

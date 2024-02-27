@@ -26,7 +26,7 @@ A15) The term “immigrant” means every alien except an alien who is within on
 There are no fetal carveouts for the above definitions. 
 
 If a fetal person is an undocumented immigrant, does that make
-regulating birth regulating immigration? Do states have the authority to
+regulating birth regulating immigration/naturalization (converting a non-citizen into a citizen)? Do states have the authority to
 regulate immigration/naturalization or is that solely in the jursidiction of Federal?
 
 ## Taxes

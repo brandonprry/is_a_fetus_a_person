@@ -1,7 +1,8 @@
 # Is a fetus a person?
 
-In the US, let's consider the legal implications of fetal personhood.
+The issue with fetal personhood isn't whether or not a fetus is scientifically a person or not. That doesn't matter. The issue with abortion is whether or not a fetus is a *legal* person or not. You may think this distinction makes no sense, but consider that companies in the United States are legal people, but are not scientifically people. Nothing in law says a legal person has to be scientifically a person. Law doesn't care about science, it cares about rights.
 
+In the US, let's consider the legal implications of fetal personhood.
 
 ## Immigration
 If a fetus is a person, it's not a citizen until it's born.

@@ -16,7 +16,7 @@ undocumented immigrant in the US.
 
 A3)  The term “alien” means any person not a citizen or national of the United States.
 
-A fetus is neither a national nor a citizen. It is stateless until born.
+**/A fetus is neither a national nor a citizen. It is stateless until born./**
 
 A15) The term “immigrant” means every alien except an alien who is within one of the following classes of nonimmigrant aliens—
 
@@ -24,7 +24,7 @@ A15) The term “immigrant” means every alien except an alien who is within on
  - (ii)upon a basis of reciprocity, other officials and employees who have been accredited by a foreign government recognized de jure by the United States, who are accepted by the Secretary of State, and the members of their immediate families; and
  - (iii)upon a basis of reciprocity, attendants, servants, personal employees, and members of their immediate families, of the officials and employees who have a nonimmigrant status under (i) and (ii) above;
 
-There are no fetal carveouts for the above definitions. 
+**/There are no fetal carveouts for the above definitions./** 
 
 If a fetal person is an undocumented immigrant, does that make
 regulating birth regulating immigration/naturalization (converting a non-citizen into a citizen)? Do states have the authority to

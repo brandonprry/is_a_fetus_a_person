@@ -12,6 +12,10 @@ If a fetus is a person, it's not a citizen until it's born.
 By definition, that makes a fetus that is a legal person an
 undocumented resident in the US.
 
+The State of Texas seems to agree.
+
+[https://github.com/brandonprry/is_a_fetus_a_person](https://www.theguardian.com/us-news/2023/aug/12/texas-fetus-rights-prison-guard-lawsuit-abortion)
+
 ### 8 U.S. Code § 1101 - Definitions
 
 A3)  The term “alien” means any person not a citizen or national of the United States.

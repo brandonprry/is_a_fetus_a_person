@@ -14,7 +14,7 @@ undocumented resident in the US.
 
 The State of Texas seems to agree.
 
-[https://github.com/brandonprry/is_a_fetus_a_person](https://www.theguardian.com/us-news/2023/aug/12/texas-fetus-rights-prison-guard-lawsuit-abortion)
+[Texas Questions Fetal Rights](https://www.theguardian.com/us-news/2023/aug/12/texas-fetus-rights-prison-guard-lawsuit-abortion)
 
 ### 8 U.S. Code § 1101 - Definitions
 

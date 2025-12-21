@@ -65,3 +65,5 @@ It's legal to kill people in self-defense, even though self-defense is not an en
 https://www.studlife.com/forum/2022/10/19/we-need-to-talk-about-abortion-as-self-defense
 
 Legally states have no power to investigate murder on native reservations. Even under a state-level abortion ban, they would have no jurisdiction over an abortion performed on tribal land. Fed gov + tribe investigates murders based on the tribe status of the individuals involved and gorsuch is a known native rights backer in his opinions.
+
+https://journals.library.columbia.edu/index.php/cjrl/article/view/2237

@@ -122,7 +122,7 @@ No paperwork is required. No Social Security Number is required and the State in
 the birth happens has no say in whether or not this child is US citizen. If the State refused to file the paperwork, they would be
 breaking the law. In this scenario, against the wishes of every
 sovereign in the context, the Federal government has not only the right, but
-the obligation, to make that child a US citizen by jurisdiction.
+the obligation, to observe that child a US citizen by jurisdiction.
 
 After being born in the airport, in order for the child to receive the
 desired citizenship, that mother will need to rescind the

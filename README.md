@@ -45,6 +45,104 @@ strong opinions on what constitutes a person.
 
 What if I want a life insurance policy on my fetus?
 
+## People But Not Citizens
+
+Rep Burlison of Missouri submitted [House Bill (H.R.) 722 Life At Conception Act](https://www.congress.gov/bill/119th-congress/house-bill/722) in January earlier this year. This bill would make any unborn human a legal person within the US. However, this bill will not change the text of the 14th Amendment’s citizenship clause. If you read the 14th Amendment, its text is clear.
+
+“All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens”.
+
+It is factually and legally accurate to call every unborn person in the US an undocumented stateless non-citizen ([United States v Wong Kim Ark](https://en.wikipedia.org/wiki/United_States_v._Wong_Kim_Ark), citizenship attaches at birth), regardless of H.R. 722 passing or not. There are no unborn Americans.
+
+How can this affect the interpretation of murder versus abortion when it
+comes to State power?
+
+## The Question of Jurisdictions, not Rights
+
+It’s difficult to separate murder of a fetus by a 3rd party and the mother via abortion if you only focus on rights. Given H.R. 722, someone shooting and killing a pregnant woman would be at risk of two counts of homicide. I actually believe most people in America would be OK with a law such as this, as long as the law did not imply the mother choosing abortion was considered murder.
+
+If instead you approach this problem through the lens of citizenship, then the State’s power diminishes, but is not extinguished. Throwing a murderer in jail for two counts of murder when a pregnant woman is shot and killed has no bearing on forcing a citizen to be created. However, a State forcing a woman to give birth by criminalizing abortion is by definition converting a non-citizen person into an American citizen, a purely Federal function.
+
+Anyone who has taken a civics class in the US knows that the Federal government has sole monopoly power on regulating citizenship, how people become citizens, and who becomes citizens. There are zero State powers delegated in the Constitution that allow States to regulate citizenship or its processes. States have no authority to create, deny, regulate, or confer U.S. citizenship ([even after Dobbs](https://volatile.news/blog/dobbs_vs_fetal_personhood_and_citizenship/)).
+
+The lens of citizenship jurisdiction allows for structural nuance in how rights get protected through gestation and birth. It allows States to protect the lives and well being of the unborn while simultaneously realizing the jurisdiction the Federal government has in the process of birth and citizenship creation.
+
+### What does Dobbs say?
+
+The general consensus is that Dobbs gave States the right to regulate
+abortion again. However, this isn't technically true. The final result
+of Dobbs was that there is no right to abortion protected by a right to
+privacy. If there is no right to privacy protecting the right to
+abortion, then States inferred they had regained regulatory authority.
+
+One of the first questions I get regarding fetal personhood and
+citizenship is how it proves Dobbs wrong or invalidates it. It doesn't.
+But that's a feature, not a bug.
+
+### Fetal Citizenship
+
+Regardless of your right to privacy, States are bound by particular
+bright lines when it comes to citizenship creation and the roles they
+can play in the process. The beauty of looking at abortion laws through
+the lens of citizenship law is the right to privacy is a moot point. It
+simply doesn't matter. Dobbs can stand going forward without being
+overturned, and States can still be limited in regulating birth because
+of the explicit effects the process of birth has on Federal political
+status.
+
+Dobbs can stand or fall and the argument from a citizenship perspective
+remains the same. In fact, there is no reliance on individual rights at
+all. The fetal citizenship arguments do not affirm a right to abortion.
+Only that States regulating birth are regulating citizenship ultra
+vires. A Supreme Court opinion can remove a protected right and still not
+authorize States to exercise a power the Constitution never gave them.
+
+From the perspective of the Supreme Court, the question changes from
+"Is there a right to abortion?" into the much simpler question "Is this
+State law forcing a citizen to be created?".
+
+It's still up to us to affirm the right to abortion through
+Congressional policy and lawmaking. Dobbs removes a judicially
+recognized right but does not transfer any new powers to the States.
+
+### The Right to Force Citizenship
+
+I understand the resistance to a phrase such as "forcing a non-citizen to
+become a citizen" but it can be plainly demonstrated.
+
+A non-official Chinese national is travelling in the US on business. She is pregnant
+and has every intention of leaving the US to give birth in China. China
+does not allow dual citizenship.
+
+While at the airport, a bag loudly drops, scaring her, sending her into
+labor prematurely. She gives birth at the airport. All of a sudden (against
+the wishes of the mother, the Chinese government, possibly the father and even
+the child), the newly born child is, by law, a US citizen. 
+
+No paperwork is required. No Social Security Number is required and the State in which
+the birth happens has no say in whether or not this child is US citizen. If the State refused to file the paperwork, they would be
+breaking the law. In this scenario, against the wishes of every
+sovereign in the context, the Federal government has not only the right, but
+the obligation, to make that child a US citizen by jurisdiction.
+
+After being born in the airport, in order for the child to receive the
+desired citizenship, that mother will need to rescind the
+child's US citizenship through paperwork in the future.
+
+This is what it means for the Federal government being able to force
+citizenship. An even simpler example is granting someone honorary
+citizenship. There's no possible way a State would have say in honorary
+citizenship, which has happened exactly 8 times in US history.
+
+```
+Winston Churchill 
+Raoul Wallenberg
+Mother Teresa
+William Penn & Hannah Penn
+Gilbert du Motier, Marquis de Lafayette
+Casimir Pulaski 
+Bernardo de Galvez
+```
+
 ## Law Enforcement and Common Law
 
 Is arresting a pregnant woman a violation of habeas corpus for the fetus

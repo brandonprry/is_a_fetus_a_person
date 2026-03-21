@@ -39,7 +39,7 @@ If the federal government exclusively defines when citizenship begins, can a Sta
 ## Taxes
 
 Can you claim a fetus as a dependent on your taxes? The IRS has very
-strong opinions on what constitutes a person.
+[strong opinions](https://github.com/brandonprry/is_a_fetus_a_person/blob/main/rr-07-22.pdf) on what constitutes a person.
 
 ## Insurance
 

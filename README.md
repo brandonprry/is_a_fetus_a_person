@@ -34,6 +34,8 @@ If a fetal person is an undocumented resident and immigrant by definition, does 
 regulating birth regulating immigration/naturalization (converting a non-citizen into a citizen)? Do states have the authority to
 regulate immigration/naturalization or is that solely in the jursidiction of Federal?
 
+If the federal government exclusively defines when citizenship begins, can a State coerce the occurrence of the event that triggers citizenship?
+
 ## Taxes
 
 Can you claim a fetus as a dependent on your taxes? The IRS has very

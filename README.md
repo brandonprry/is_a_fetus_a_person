@@ -143,6 +143,9 @@ Casimir Pulaski
 Bernardo de Galvez
 ```
 
+Is compelling birth more like regulating healthcare (allowed),
+or more like controlling who becomes a citizen (not allowed)?
+
 ## Law Enforcement and Common Law
 
 Is arresting a pregnant woman a violation of habeas corpus for the fetus

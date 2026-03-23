@@ -7,7 +7,7 @@ In the US, let's consider the legal implications of fetal, embryonic, or zygotic
 ## Immigration
 If a fetus is a person, it's not a citizen until it's born.
 
-"All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside"
+"All persons *born* or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside"
 
 By definition, that makes a fetus that is a legal person an
 undocumented resident in the US.

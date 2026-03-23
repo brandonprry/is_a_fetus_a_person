@@ -151,10 +151,6 @@ or more like controlling who becomes a citizen (not allowed)?
 Is arresting a pregnant woman a violation of habeas corpus for the fetus
 who has committed no crime?
 
-In Texas, you are not allowed to get divorced if you are a pregnant
-woman because the state has no jurisdiction over the fetus until it's
-born.
-
 The conservative argument against the DREAM act was that it was unconstitutional because it ascribed equal protection to non-US citizens. Why would the same argument not apply to equal protection of a fetus if a fetus is a person? Plyler set the precedent that non-citizens do have a degree of equal protection of rights, but reversing Plyler is a goal of the Republican party.
 
 Texas and other states have argued and benefitted from arguing that undocumented immigrants have no equal protection of rights under the Constitution. Why wouldn't judicial estoppel apply when they argue a non-citizen fetus deserves equal protection? Greg Abbott has stated on record that he would shoot immigrants crossing illegally but the Biden admin would charge them with murder.

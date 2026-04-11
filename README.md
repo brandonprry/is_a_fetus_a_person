@@ -36,6 +36,8 @@ regulate immigration/naturalization or is that solely in the jursidiction of Fed
 
 If the federal government exclusively defines when citizenship begins, can a State coerce the occurrence of the event that triggers citizenship? You can [imagine the implications](https://volatile.news/blog/there_are_no_unborn_americans/).
 
+From this perspective, abortion laws can never protect the lives of Americans. Abortion laws can only save the lives of undocumented non-citizens at the expense of citizen mothers' lives. Not very America First.
+
 ## Taxes
 
 Can you claim a fetus as a dependent on your taxes? The IRS has very

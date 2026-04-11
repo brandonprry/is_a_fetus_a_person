@@ -161,7 +161,7 @@ It's legal to kill people in self-defense, even though self-defense is not an en
 
 ```A castle doctrine, also known as a castle law or a defense of habitation law, is a legal doctrine that designates a person's abode or any legally occupied place (for example, an automobile or a home) as a place in which that person has protections and immunities permitting one, in certain circumstances, to use force (up to and including deadly force) to defend oneself against an intruder, free from legal prosecution for the consequences of the force used. The term is most commonly used in the United States, though many other countries invoke comparable principles in their laws.```
 
-One area of law tolerates (self-defense) reasonable perceived threat as justification for lethal force, while another (abortion) often demands objective, medically verifiable danger before allowing termination.
+One area of law (self-defense) tolerates reasonable perceived threat as justification for lethal force, while another (abortion) often demands objective, medically verifiable danger before allowing termination.
 
 https://www.studlife.com/forum/2022/10/19/we-need-to-talk-about-abortion-as-self-defense
 

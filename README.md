@@ -108,7 +108,7 @@ It's still up to us to affirm the right to abortion through
 Congressional policy and lawmaking. Dobbs removes a judicially
 recognized right but does not transfer any new powers to the States.
 
-### The Right to Force Citizenship
+### The Power to Force Citizenship
 
 I understand the resistance to a phrase such as "forcing a non-citizen to
 become a citizen" but it can be plainly demonstrated.

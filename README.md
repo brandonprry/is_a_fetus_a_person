@@ -38,6 +38,8 @@ If the federal government exclusively defines when citizenship begins, can a Sta
 
 From this perspective, abortion laws can never protect the lives of Americans. Abortion laws can only save the lives of undocumented non-citizens at the expense of citizen mothers' lives. Not very America First.
 
+States are claiming power over someone who isn’t yet a citizen, but also over the moment they become one.
+
 ## Taxes
 
 Can you claim a fetus as a dependent on your taxes? The IRS has very

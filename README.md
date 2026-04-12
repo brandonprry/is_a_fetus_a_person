@@ -150,7 +150,7 @@ Bernardo de Galvez
 Is compelling birth more like regulating healthcare (allowed),
 or more like controlling who becomes a citizen (not allowed)?
 
-If states have no power to prevent a newborn from becoming a citizen, what power do states have to force the non-citizen fetus to become a citizen?
+If states have no power to prevent a newborn from becoming a citizen, what power do states have to force the non-citizen fetus to become a citizen in the other direction?
 
 ## Law Enforcement and Common Law
 

@@ -5,7 +5,7 @@ The issue with fetal personhood isn't whether or not a fetus is scientifically a
 In the US, let's consider the legal implications of fetal, embryonic, or zygotic personhood.
 
 ## Immigration
-If a fetus is a person, it's not a citizen until it's born.
+If a fetus is a legal person, it's not a citizen until it's born.
 
 "All persons *born* or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside"
 

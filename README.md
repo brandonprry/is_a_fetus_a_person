@@ -1,6 +1,6 @@
 # Is a fetus a person?
 
-The issue with fetal personhood isn't whether or not a fetus is scientifically a person or not. That doesn't matter. The issue with fetal personhood is whether or not a fetus is a *legal* person or not. You may think this distinction makes no sense, but consider that companies in the United States are legal people, but are not scientifically people. Vessels on the ocean shipping freight are legal people, but not scientifically people.
+The issue with fetal personhood isn't whether or not a fetus is scientifically a person or not. That doesn't matter. The issue with fetal personhood is whether or not a fetus is a *legal* person or not. You may think this distinction makes no sense. However, consider that companies in the United States are legal people, but are not scientifically people. Vessels on the ocean shipping freight are legal people, but not scientifically people.
 
 Nothing in law says a legal person has to be scientifically a person. Law doesn't care about science, it cares about rights. Anything can be made a legal person. You can write a law that makes pencils legal people.
 

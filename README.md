@@ -11,7 +11,7 @@ If a fetus is a legal person, it's not a citizen until it's born.
 "All persons *born* or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside"
 
 By definition, that makes a fetus that is a legal person an
-*undocumented non-citizen resident* in the US. The fetus is stateless, with no nationality whatsoever.
+*undocumented non-citizen resident* in the US. The fetus is technically *stateless*, with no nationality whatsoever.
 
 
 The State of Texas seems to agree.

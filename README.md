@@ -22,7 +22,7 @@ The State of Texas seems to agree.
 
 A3)  The term “alien” means any person not a citizen or national of the United States.
 
-**A fetus is neither a national nor a citizen. It is stateless until born.**
+* **A fetus is neither a national nor a citizen. It is stateless until born.** *
 
 A15) The term “immigrant” means every alien except an alien who is within one of the following classes of nonimmigrant aliens—
 

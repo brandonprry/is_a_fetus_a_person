@@ -4,15 +4,15 @@ The issue with fetal personhood isn't whether or not a fetus is scientifically a
 
 Nothing in law says a legal person has to be scientifically a person. Law doesn't care about science, it cares about rights. Anything can be made a legal person. You can write a law that makes pencils legal people.
 
-In the US, let's consider the legal implications of fetal, embryonic, or zygotic personhood. The fetus is stateless, with no nationality whatsoever.
-
+In the US, let's consider the legal implications of fetal, embryonic, or zygotic personhood. 
 ## Immigration
 If a fetus is a legal person, it's not a citizen until it's born.
 
 "All persons *born* or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside"
 
 By definition, that makes a fetus that is a legal person an
-*undocumented non-citizen resident* in the US.
+*undocumented non-citizen resident* in the US. The fetus is stateless, with no nationality whatsoever.
+
 
 The State of Texas seems to agree.
 

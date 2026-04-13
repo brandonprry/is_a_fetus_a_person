@@ -93,8 +93,6 @@ overturned, and States can still be limited in regulating birth because
 of the explicit effects the process of birth has on Federal political
 status.
 
-States do have authority to regulate some aspects regarding federal statuses, such as marriage. However, no laws force people to get married.
-
 Dobbs can stand or fall and the argument from a citizenship perspective
 remains the same. In fact, there is no reliance on individual rights at
 all. The fetal citizenship arguments do not affirm a right to abortion.
@@ -158,6 +156,8 @@ If states have no power to prevent a newborn from becoming a citizen, what power
 
 Is arresting a pregnant woman a violation of habeas corpus for the fetus
 who has committed no crime?
+
+States do have authority to regulate some aspects regarding federal statuses, such as marriage. However, no laws force people to get married.
 
 The conservative argument against the DREAM act was that it was unconstitutional because it ascribed equal protection to non-US citizens. Why would the same argument not apply to equal protection of a fetus if a fetus is a person? Plyler set the precedent that non-citizens do have a degree of equal protection of rights, but reversing Plyler is a goal of the Republican party.
 
